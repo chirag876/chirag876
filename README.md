@@ -18,7 +18,7 @@ Hello! I'm deeply immersed in the world of data, unraveling its complexities to 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=chirag876&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Laughs
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
