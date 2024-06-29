@@ -22,7 +22,7 @@ Hello! I'm deeply immersed in the world of data, unraveling its complexities to 
 ![](https://github-contributor-stats.vercel.app/api?username=chirag876&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 😂 Dev Laughs
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chirag876&label=Visit%20Count&pretty=true)](https://visitcount.itsvg.in)
