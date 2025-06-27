@@ -1,5 +1,13 @@
 # 👨‍💼 About Me:
-Hello! I'm deeply immersed in the world of data, unraveling its complexities to provide actionable insights for businesses.<br><br>I specialize in analyzing data using MongoDB, MySQL, SQL Server, Postgresql, and Python. Python, in particular, is my go-to tool for its flexibility in interpreting and manipulating data to reveal valuable insights.<br><br>In terms of data visualization, I'm adept at using platforms like Power BI, Tableau, and Qlik Sense to create compelling visual narratives from intricate datasets. By presenting data through intuitive dashboards and interactive reports, I help organizations make informed, data-driven decisions.<br><br>I'm passionate about staying updated with the latest trends in data analytics and technology. This drive for continuous learning ensures that I remain at the forefront of industry developments, ready to tackle new challenges head-on.<br><br>Let's connect and explore how we can leverage the power of data to drive innovation and transformation in today's digital landscape. Together, we can unlock the full potential of data to propel businesses toward unprecedented success.
+Hello! I'm Chirag Gupta, a passionate and hands-on Software Engineer with expertise in data engineering, analytics, and full-stack application development. I specialize in transforming raw data into scalable, actionable systems that power informed business decisions.
+
+With 2.5+ years of experience, I've developed cloud-native ETL pipelines using Python, GCP, and BigQuery—handling schema replication, batch processing, and modular orchestration. I've built tools like the Pulse Billing ETL Service and automated BigQuery migration workflows, ensuring reliability and efficiency in enterprise data operations.
+
+I design Power BI, Tableau, and Qlik dashboards integrated with AWS S3, Azure, and Databricks, supporting real-time refresh for analytics in insurance and IMS domains. On the app development side, I’ve built .NET-based platforms like TimeTrack (productivity and work logging) and ShopperNet (e-commerce), leveraging SQL Server, Entity Framework, and ASP.NET MVC.
+
+Python is my go-to for utility tools like ERGenix and Mock Data Generator, blending backend logic with user-friendly interfaces.
+
+I'm constantly learning and exploring new technologies to solve real-world problems through clean architecture, automation, and efficient design. Let’s connect and build something impactful.
 
 
 ## 🌐 Socials:
