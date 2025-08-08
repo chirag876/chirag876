@@ -1,7 +1,7 @@
 # 👨‍💼 About Me:
 Hello! I'm Chirag Gupta, a passionate and hands-on Software Engineer with expertise in data engineering, analytics, and full-stack application development. I specialize in transforming raw data into scalable, actionable systems that power informed business decisions.
 
-With 2.5+ years of experience, I've developed cloud-native ETL pipelines using Python, GCP, and BigQuery—handling schema replication, batch processing, and modular orchestration. I've built tools like the Pulse Billing ETL Service and automated BigQuery migration workflows, ensuring reliability and efficiency in enterprise data operations.
+With 2.5+ years of experience, I've developed cloud-native ETL pipelines using Python, GCP, and BigQuery handling schema replication, batch processing, and modular orchestration. I've built tools like the Pulse Billing ETL Service and automated BigQuery migration workflows, ensuring reliability and efficiency in enterprise data operations.
 
 I design Power BI, Tableau, and Qlik dashboards integrated with AWS S3, Azure, and Databricks, supporting real-time refresh for analytics in insurance and IMS domains. On the app development side, I’ve built .NET-based platforms like TimeTrack (productivity and work logging) and ShopperNet (e-commerce), leveraging SQL Server, Entity Framework, and ASP.NET MVC.
 
