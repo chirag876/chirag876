@@ -2,7 +2,7 @@
 
 Backend engineer from Jaipur, India. I build Python-based backend systems APIs, services, and the infrastructure that keeps them running cleanly in production.
 
-3+ years across edtech, insurance, and cloud-native environments. I care about systems that are fast, modular, and maintainable — not just ones that ship.
+3+ years across edtech, insurance, and cloud-native environments. I care about systems that are fast, modular, and maintainable not just ones that ship.
 
 ---
 
@@ -25,7 +25,7 @@ Postman · Swagger · VS Code
 ## Projects worth looking at
 
 ### 🔷 [BigQuery Cross-Environment ETL Pipeline](https://github.com/chirag876/BigQuery-Cross-Environment-ETL-Pipeline)
-Serverless ETL on GCP Cloud Functions. Migrates data between BigQuery environments with event-driven triggers via Pub/Sub, async dataset creation, MySQL job tracking, and full error resilience. Built for production — structured logging, service account handling, modular architecture.
+Serverless ETL on GCP Cloud Functions. Migrates data between BigQuery environments with event-driven triggers via Pub/Sub, async dataset creation, MySQL job tracking, and full error resilience. Built for production structured logging, service account handling, modular architecture.
 `Python` `GCP` `BigQuery` `MySQL` `asyncio`
 
 ---
