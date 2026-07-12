@@ -1,63 +1,188 @@
-# Hey, I'm Chirag 👋
+<div align="center">
 
-Backend engineer from Jaipur, India. I build Python-based backend systems APIs, services, and the infrastructure that keeps them running cleanly in production.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Chirag%20Gupta&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20System%20Thinker&descAlignY=55&descSize=18" />
 
-3+ years across edtech, insurance, and cloud-native environments. I care about systems that are fast, modular, and maintainable not just ones that ship.
+</div>
+
+<br/>
+
+### Hey, I'm Chirag
+
+I'm a backend engineer with **3+ years** of experience building Python-powered systems that are fast, modular, and production-ready not just ones that ship.
+
+I've worked across **EdTech, Insurance, and Cloud-native** environments, shipping APIs, data pipelines, and infrastructure that real users depend on.
+
+- Currently working on **MockForge v2.0** a full-stack mock data platform
+- Open to **backend / Python engineering** roles (on-site · hybrid · remote)
+- Based in **Jaipur, India** · Available immediately
+- Ask me about **FastAPI, GCP pipelines, or system design**
 
 ---
 
-## What I work with
+## Tech Stack
 
-**Languages & Frameworks**
-Python · FastAPI · Flask · REST APIs
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+- Python
+- FastAPI · Flask
+- REST APIs · CQRS
+
+</td>
+<td valign="top" width="33%">
 
 **Databases**
-MongoDB · MySQL · SQL Server · Google BigQuery
+- MySQL · SQL Server
+- MongoDB
+- Google BigQuery
+
+</td>
+<td valign="top" width="33%">
 
 **Cloud & DevOps**
-GCP · Docker · GitHub · Cloud Functions · Pub/Sub
+- GCP · Azure
+- Docker · GitHub
+- Cloud Functions · Pub/Sub
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Libraries**
+- Pandas · NumPy
+- Faker · SQLAlchemy
+- Matplotlib · PyArrow
+
+</td>
+<td valign="top" width="33%">
+
+**BI & Analytics**
+- Power BI · Tableau
+- Qlik Sense
+- Qlik Replicate
+
+</td>
+<td valign="top" width="33%">
 
 **Tools**
-Postman · Swagger · VS Code
+- Postman · Swagger
+- VS Code
+- Pydantic v2 · PyYAML
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Projects worth looking at
+## Projects
 
-### 🔷 [BigQuery Cross-Environment ETL Pipeline](https://github.com/chirag876/BigQuery-Cross-Environment-ETL-Pipeline)
-Serverless ETL on GCP Cloud Functions. Migrates data between BigQuery environments with event-driven triggers via Pub/Sub, async dataset creation, MySQL job tracking, and full error resilience. Built for production structured logging, service account handling, modular architecture.
-`Python` `GCP` `BigQuery` `MySQL` `asyncio`
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### MockDataGenerator
+> Realistic synthetic test data across **12+ domains** users, IoT, banking, healthcare, and more.
 
-### 🔷 [Mock Data Generator](https://github.com/chirag876/MockDataGenerator)
-FastAPI web app that generates realistic synthetic test data across 12+ domains (users, IoT, banking, etc.). Supports custom schemas, seed-based reproducibility, and export in JSON, CSV, XML, YAML, and Parquet.
-`Python` `FastAPI` `Pandas` `Faker`
+- Custom schema support (JSON/YAML)
+- Relational data with FK integrity
+- Export: JSON · CSV · XML · YAML · Parquet
+- Seed-based reproducibility
 
----
+[![Repo](https://img.shields.io/badge/GitHub-MockDataGenerator-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/MockDataGenerator)
+`Python` `FastAPI` `Faker` `Pandas`
 
-### 🔷 [ERGenix](https://github.com/chirag876/ERGenix)
-Flask utility that auto-generates ER diagrams and table-level schema insights from live MySQL and PostgreSQL databases. Includes export options and session security.
+</td>
+<td width="50%" valign="top">
+
+### BigQuery ETL Pipeline
+> Serverless ETL on GCP migrating data between BigQuery environments built for production, not demos.
+
+- Event-driven via Pub/Sub
+- Async dataset creation with `asyncio`
+- MySQL job tracking + structured logging
+- Full error resilience
+
+[![Repo](https://img.shields.io/badge/GitHub-BigQuery--ETL-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/BigQuery-Cross-Environment-ETL-Pipeline)
+`Python` `GCP` `BigQuery` `asyncio`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ERGenix
+> Auto-generates ER diagrams + schema insights from **live MySQL / PostgreSQL databases**.
+
+- Connect DB → instant visualization
+- Table-level schema analysis
+- Export options + session security
+
+[![Repo](https://img.shields.io/badge/GitHub-ERGenix-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/ERGenix)
 `Python` `Flask` `MySQL` `PostgreSQL`
 
+</td>
+<td width="50%" valign="top">
+
+### MockForge v2.0 *(In Progress)*
+> Full-stack upgrade to MockDataGenerator domain-specific generation, direct DB seeding, and a professional UI.
+
+- 11 domain presets · Schema-driven generation
+- Direct database seeding
+- Full frontend with Supabase/Railway-style UI
+
+`FastAPI` `Pydantic v2` `SQLAlchemy` `Vanilla JS`
+
+</td>
+</tr>
+</table>
+
 ---
 
-## What I've shipped at work
+## Work History
 
-- **Edufusion Tech** — Built a digital assessment platform serving 10K+ students (sub-200ms APIs), a real-time classroom system handling 1,000+ daily Zoom sessions at 99.9% uptime, and an exam registration workflow that cut support load by 80%.
-- **D3V Technology Solutions** — Cloud-native ETL pipeline on GCP migrating data between BigQuery environments using Cloud Functions, Pub/Sub, and asyncio.
-- **Spectral Tech AI** (2 years) — NLP pipelines for an insurance chatbot, BI dashboards in Power BI/Tableau/Qlik, Azure data pipelines, and a CRM built with CQRS + REST APIs.
+**Edufusion Ventures** &nbsp;`Sept 2025 – May 2026`
+> Digital assessment platform · 10K+ students · sub-200ms APIs
+> Real-time classroom system · 1,000+ Zoom sessions/day · 99.9% uptime
+> Exam registration workflow · **80% reduction in support tickets**
+
+**D3V Technology Solutions** &nbsp;`April 2025 - June 2025`
+> Cloud-native ETL on GCP · BigQuery migration · Cloud Functions + Pub/Sub + asyncio
+
+**Spectral Tech AI** &nbsp;`Jan 2023 – March 2025`
+> NLP pipelines for insurance chatbot · BI dashboards (Power BI · Tableau · Qlik)
+> Azure data pipelines · CRM built on **CQRS + REST API** architecture
 
 ---
 
-## Currently
+## GitHub Stats
 
-- Open to backend engineering roles (on-site / hybrid / remote)
-- Based in Jaipur · Available immediately
+<div align="center">
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=chirag876&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## Let's talk
+## Let's Connect
 
-📧 chirag1706gupta@gmail.com
-💼 [linkedin.com/in/chiraggupta1706](https://linkedin.com/in/chiraggupta1706)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-chirag1706gupta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirag1706gupta@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chiraggupta1706-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiraggupta1706)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-chirag876-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirag876)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+</div>
