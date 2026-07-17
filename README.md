@@ -84,20 +84,6 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 <tr>
 <td width="50%" valign="top">
 
-### MockDataGenerator
-> Realistic synthetic test data across **12+ domains** users, IoT, banking, healthcare, and more.
-
-- Custom schema support (JSON/YAML)
-- Relational data with FK integrity
-- Export: JSON · CSV · XML · YAML · Parquet
-- Seed-based reproducibility
-
-[![Repo](https://img.shields.io/badge/GitHub-MockDataGenerator-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/MockDataGenerator)
-`Python` `FastAPI` `Faker` `Pandas`
-
-</td>
-<td width="50%" valign="top">
-
 ### BigQuery ETL Pipeline
 > Serverless ETL on GCP migrating data between BigQuery environments built for production, not demos.
 
@@ -128,12 +114,12 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 <td width="50%" valign="top">
 
 ### MockForge v2.0 *(In Progress)*
-> Full-stack upgrade to MockDataGenerator domain-specific generation, direct DB seeding, and a professional UI.
+> Earlier MockDataGenerator now Full-stack upgrade to MockDataGenerator domain-specific generation, direct DB seeding, and a professional UI.
 
 - 11 domain presets · Schema-driven generation
 - Direct database seeding
 - Full frontend with Supabase/Railway-style UI
-
+[![Repo](https://img.shields.io/badge/GitHub-MockDataGenerator-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/MockDataGenerator)
 `FastAPI` `Pydantic v2` `SQLAlchemy` `Vanilla JS`
 
 </td>
