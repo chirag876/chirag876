@@ -81,7 +81,20 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 ## Projects
 
 <table>
-<tr>
+<td width="50%" valign="top">
+  
+### WhiteSpace
+> Collaborative whiteboard supporting live drawing, shared sessions, and host controls.
+
+- Real-time synchronization using Django Channels
+- UUID-based collaborative whiteboard sessions
+- Live cursor tracking and identity-aware drawing
+- Host-controlled session and participant management
+- WebSocket-powered multi-user collaboration
+
+[![Repo](https://img.shields.io/badge/GitHub-WhiteSpace-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/WhiteSpace.git)
+`Python` `Django` `Django Channels` `WebSockets` `Daphne` `JavaScript` `HTML5 Canvas` `SQLite`
+</td>
 <td width="50%" valign="top">
 
 ### BigQuery ETL Pipeline
@@ -94,7 +107,6 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 
 [![Repo](https://img.shields.io/badge/GitHub-BigQuery--ETL-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/BigQuery-Cross-Environment-ETL-Pipeline)
 `Python` `GCP` `BigQuery` `asyncio`
-
 </td>
 </tr>
 <tr>
