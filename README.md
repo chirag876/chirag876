@@ -12,7 +12,6 @@ I'm a backend engineer with **3+ years** of experience building Python-powered s
 
 I've worked across **EdTech, Insurance, and Cloud-native** environments, shipping APIs, data pipelines, and infrastructure that real users depend on.
 
-- Currently working on **MockForge v2.0** a full-stack mock data platform
 - Open to **backend / Python engineering** roles (on-site · hybrid · remote)
 - Based in **Jaipur, India** · Available immediately
 - Ask me about **FastAPI, GCP pipelines, or system design**
