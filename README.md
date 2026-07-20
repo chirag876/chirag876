@@ -14,8 +14,6 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 
 - Open to **backend / Python engineering** roles (on-site · hybrid · remote)
 - Based in **Jaipur, India** · Available immediately
-- Ask me about **FastAPI, GCP pipelines, or system design**
-
 ---
 
 ## Tech Stack
