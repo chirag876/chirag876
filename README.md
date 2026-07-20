@@ -83,7 +83,7 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 <table>
 <td width="50%" valign="top">
   
-### WhiteSpace
+### WhiteSpace *(In Progress)*
 > Collaborative whiteboard supporting live drawing, shared sessions, and host controls.
 
 - Real-time synchronization using Django Channels
@@ -125,7 +125,7 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 </td>
 <td width="50%" valign="top">
 
-### MockForge v2.0 *(In Progress)*
+### MockForge v2.0
 > Earlier MockDataGenerator now Full-stack upgrade to MockDataGenerator domain-specific generation, direct DB seeding, and a professional UI.
 
 - 11 domain presets · Schema-driven generation
