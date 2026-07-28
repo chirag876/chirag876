@@ -153,19 +153,6 @@ I've worked across **EdTech, Insurance, and Cloud-native** environments, shippin
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chirag876&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
