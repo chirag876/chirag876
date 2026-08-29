@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240" role="img" aria-labelledby="title desc">
+  <title id="title">Chirag Gupta — Backend engineer</title>
+  <desc id="desc">Python systems. Jaipur. Available.</desc>
+  <rect width="1280" height="240" fill="#0c0c0d"/>
+  <rect x="0.5" y="0.5" width="1279" height="239" fill="none" stroke="#f0eee8" stroke-opacity="0.12"/>
+  <text x="56" y="48" fill="#8f8d86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3">BACKEND ENGINEER · PYTHON SYSTEMS</text>
+  <text x="56" y="118" fill="#f0eee8" font-family="Georgia, Times New Roman, serif" font-size="52">Chirag Gupta</text>
+  <text x="56" y="168" fill="#8f8d86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">APIs, pipelines, infrastructure that stay up.</text>
+  <text x="56" y="208" fill="#8fa88c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">JAIPUR · AVAILABLE</text>
+  <rect x="1128" y="76" width="88" height="88" fill="none" stroke="#c9d0d6" stroke-opacity="0.7"/>
+  <text x="1172" y="128" fill="#c9d0d6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" text-anchor="middle" letter-spacing="2">CG</text>
+</svg>
