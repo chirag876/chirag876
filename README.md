@@ -1,170 +1,47 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Chirag%20Gupta&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20System%20Thinker&descAlignY=55&descSize=18" />
-
+<div>
+  <img src="./banner.svg" alt="Chirag Gupta — Backend engineer" width="100%" />
 </div>
 
-<br/>
+**Backend engineer** · Python systems · Jaipur, India
 
-### Hey, I'm Chirag
+I build APIs, pipelines, and infrastructure that stay up — not just ones that ship. Three years across EdTech, insurance, and cloud-native. Open to backend / Python roles (on-site · hybrid · remote). **Available immediately.**
 
-I'm a backend engineer with **3+ years** of experience building Python-powered systems that are fast, modular, and production-ready not just ones that ship.
+```
+uptime      99.9%
+latency     < 200ms
+students    10K+
+tickets     −80%
+```
 
-I've worked across **EdTech, Insurance, and Cloud-native** environments, shipping APIs, data pipelines, and infrastructure that real users depend on.
+## Systems
 
-- Open to **backend / Python engineering** roles (on-site · hybrid · remote)
-- Based in **Jaipur, India** · Available immediately
----
+**[BigQuery Cross-Environment ETL](https://github.com/chirag876/BigQuery-Cross-Environment-ETL-Pipeline)** — Serverless GCP pipeline. Impersonates client service accounts, extracts BigQuery billing data, transforms it, and loads a centralized warehouse with a MySQL audit trail. Pub/Sub, Cloud Functions, asyncio, retries, incremental loads.
 
-## Tech Stack
+**[ERGenix](https://github.com/chirag876/ERGenix)** — Point it at live MySQL / PostgreSQL / SQLite. Instant ER diagrams, table stats, export. Credentials never persist.
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**[MockForge](https://github.com/chirag876/MockDataGenerator)** — Schema-driven mock data. 11 domain presets, preview / download / seed directly into a database. FastAPI + Pydantic v2.
 
-**Backend**
-- Python
-- FastAPI · Flask
-- REST APIs · CQRS
+**[WhiteSpace](https://github.com/chirag876/WhiteSpace)** — Collaborative whiteboard. Django Channels, live cursors, host controls, UUID sessions. In progress.
 
-</td>
-<td valign="top" width="33%">
+**[Smart PDF Extractor](https://github.com/chirag876/Smart-PDF-Extractor)** — FastAPI. Text, tables, metadata, invoices. OCR for scans, Gemini fallback, auto cleanup.
 
-**Databases**
-- MySQL · SQL Server
-- MongoDB
-- Google BigQuery
+**[OfflineScribe](https://github.com/chirag876/OfflineScribe)** — Local audio/video transcription with faster-whisper. No API, no internet, nothing leaves the machine.
 
-</td>
-<td valign="top" width="33%">
+## Work
 
-**Cloud & DevOps**
-- GCP · Azure
-- Docker · GitHub
-- Cloud Functions · Pub/Sub
+**Edufusion Ventures** `Sept 2025 – May 2026`
+Digital assessment for 10K+ students · sub-200ms APIs · 1,000+ Zoom sessions/day at 99.9% uptime · exam registration that cut support tickets 80%.
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
+**D3V Technology Solutions** `April 2025 – June 2025`
+Cloud-native ETL on GCP · BigQuery migration · Cloud Functions + Pub/Sub + asyncio.
 
-**Libraries**
-- Pandas · NumPy
-- Faker · SQLAlchemy
-- Matplotlib · PyArrow
+**Spectral Tech AI** `Jan 2023 – March 2025`
+NLP pipelines for insurance · BI in Power BI / Tableau / Qlik · Azure data pipelines · CRM on CQRS + REST.
 
-</td>
-<td valign="top" width="33%">
+## Stack
 
-**BI & Analytics**
-- Power BI · Tableau
-- Qlik Sense
-- Qlik Replicate
+`Python` `FastAPI` `Flask` `Django` `MySQL` `PostgreSQL` `MongoDB` `BigQuery` `GCP` `Azure` `Docker` `Pub/Sub` `SQLAlchemy` `Pydantic v2` `Pandas` `Power BI`
 
-</td>
-<td valign="top" width="33%">
+## Contact
 
-**Tools**
-- Postman · Swagger
-- VS Code
-- Pydantic v2 · PyYAML
-
-</td>
-</tr>
-</table>
-
----
-
-## Projects
-
-<table>
-<td width="50%" valign="top">
-  
-### WhiteSpace *(In Progress)*
-> Collaborative whiteboard supporting live drawing, shared sessions, and host controls.
-
-- Real-time synchronization using Django Channels
-- UUID-based collaborative whiteboard sessions
-- Live cursor tracking and identity-aware drawing
-- Host-controlled session and participant management
-- WebSocket-powered multi-user collaboration
-
-[![Repo](https://img.shields.io/badge/GitHub-WhiteSpace-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/WhiteSpace.git)
-`Python` `Django` `Django Channels` `WebSockets` `Daphne` `JavaScript` `HTML5 Canvas` `SQLite`
-</td>
-<td width="50%" valign="top">
-
-### BigQuery ETL Pipeline
-> Serverless ETL on GCP migrating data between BigQuery environments built for production, not demos.
-
-- Event-driven via Pub/Sub
-- Async dataset creation with `asyncio`
-- MySQL job tracking + structured logging
-- Full error resilience
-
-[![Repo](https://img.shields.io/badge/GitHub-BigQuery--ETL-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/BigQuery-Cross-Environment-ETL-Pipeline)
-`Python` `GCP` `BigQuery` `asyncio`
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ERGenix
-> Auto-generates ER diagrams + schema insights from **live MySQL / PostgreSQL databases**.
-
-- Connect DB → instant visualization
-- Table-level schema analysis
-- Export options + session security
-
-[![Repo](https://img.shields.io/badge/GitHub-ERGenix-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/ERGenix)
-`Python` `Flask` `MySQL` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### MockForge v2.0
-> Earlier MockDataGenerator now Full-stack upgrade to MockDataGenerator domain-specific generation, direct DB seeding, and a professional UI.
-
-- 11 domain presets · Schema-driven generation
-- Direct database seeding
-- Full frontend with Supabase/Railway-style UI
-[![Repo](https://img.shields.io/badge/GitHub-MockDataGenerator-6C63FF?style=flat-square&logo=github)](https://github.com/chirag876/MockDataGenerator)
-`FastAPI` `Pydantic v2` `SQLAlchemy` `Vanilla JS`
-
-</td>
-</tr>
-</table>
-
----
-
-## Work History
-
-**Edufusion Ventures** &nbsp;`Sept 2025 – May 2026`
-> Digital assessment platform · 10K+ students · sub-200ms APIs
-> Real-time classroom system · 1,000+ Zoom sessions/day · 99.9% uptime
-> Exam registration workflow · **80% reduction in support tickets**
-
-**D3V Technology Solutions** &nbsp;`April 2025 - June 2025`
-> Cloud-native ETL on GCP · BigQuery migration · Cloud Functions + Pub/Sub + asyncio
-
-**Spectral Tech AI** &nbsp;`Jan 2023 – March 2025`
-> NLP pipelines for insurance chatbot · BI dashboards (Power BI · Tableau · Qlik)
-> Azure data pipelines · CRM built on **CQRS + REST API** architecture
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-chirag1706gupta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chirag1706gupta@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chiraggupta1706-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiraggupta1706)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-chirag876-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chirag876)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</div>
+[Email](mailto:chirag1706gupta@gmail.com) · [LinkedIn](https://linkedin.com/in/chiraggupta1706) · [GitHub](https://github.com/chirag876)
