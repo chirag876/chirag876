@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071321"/>
+    <stop offset="0.52" stop-color="#102d47"/>
+    <stop offset="1" stop-color="#02070d"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#12283a"/>
+    <stop offset="1" stop-color="#06101a"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="420" fill="url(#sky)"/>
+<circle cx="1300" cy="100" r="90" fill="#d9e9f5" opacity=".08"/>
+<path d="M0 315 C260 265 430 300 650 315 S1080 360 1600 285 L1600 420 L0 420 Z" fill="#d9e9f5" opacity=".08"/>
+<path d="M0 340 C300 290 500 330 760 335 S1200 380 1600 315" fill="none" stroke="#9bb4c7" stroke-width="3" opacity=".18"/>
+
+<!-- Flight path -->
+<path d="M120 300 C390 130 690 120 930 215 S1280 275 1480 125" fill="none" stroke="#6fb1d8" stroke-width="3" stroke-dasharray="12 12" opacity=".55"/>
+
+<!-- Aircraft silhouette -->
+<g transform="translate(890 185) rotate(-7)" fill="#eef5f9">
+  <path d="M0 8 L180 0 L265 18 L180 35 L0 25 Z"/>
+  <path d="M90 7 L45 -52 L72 -47 L135 5 Z"/>
+  <path d="M125 28 L80 73 L108 66 L160 30 Z"/>
+  <path d="M235 13 L280 -12 L292 -7 L266 20 Z"/>
+  <path d="M65 10 L20 -7 L18 1 L60 19 Z"/>
+</g>
+
+<!-- Flight-deck inspired side panels -->
+<g fill="url(#panel)" stroke="#6fb1d8" stroke-width="2" opacity=".92">
+  <rect x="55" y="55" width="290" height="120" rx="14"/>
+  <rect x="55" y="200" width="290" height="120" rx="14"/>
+  <rect x="1250" y="55" width="295" height="120" rx="14"/>
+  <rect x="1250" y="200" width="295" height="120" rx="14"/>
+</g>
+
+<g font-family="Arial, sans-serif" fill="#b9d7e9">
+  <text x="80" y="88" font-size="15" letter-spacing="4">FLIGHT PROFILE</text>
+  <text x="80" y="124" font-size="26" fill="#eef5f9">CHIRAG GUPTA</text>
+  <text x="80" y="151" font-size="14">BACKEND ENGINEER</text>
+
+  <text x="80" y="232" font-size="15" letter-spacing="4">SYSTEMS</text>
+  <text x="80" y="267" font-size="18">PYTHON  /  APIs  /  CLOUD</text>
+  <text x="80" y="294" font-size="14">MICROSERVICES  /  DATA</text>
+
+  <text x="1275" y="88" font-size="15" letter-spacing="4">FLIGHT STATUS</text>
+  <text x="1275" y="124" font-size="22" fill="#eef5f9">AVAILABLE</text>
+  <text x="1275" y="151" font-size="14">IMMEDIATE JOINER</text>
+
+  <text x="1275" y="232" font-size="15" letter-spacing="4">BASE</text>
+  <text x="1275" y="268" font-size="20" fill="#eef5f9">JAIPUR, INDIA</text>
+  <text x="1275" y="295" font-size="14">3.2 YEARS EXPERIENCE</text>
+
+  <text x="800" y="375" text-anchor="middle" font-size="13" letter-spacing="5">FLIGHT DECK // SOFTWARE ENGINEERING</text>
+</g>
+</svg>
