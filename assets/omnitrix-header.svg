@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#080808"/>
+    <stop offset="0.5" stop-color="#151515"/>
+    <stop offset="1" stop-color="#080808"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)" stroke="#9ACD32" stroke-width="4"/>
+<path d="M0 55H1200M0 245H1200" stroke="#9ACD32" opacity=".25"/>
+<path d="M65 75H1135M65 225H1135" stroke="#9ACD32" opacity=".12"/>
+<circle cx="600" cy="150" r="88" fill="#111" stroke="#9ACD32" stroke-width="7" filter="url(#glow)"/>
+<circle cx="600" cy="150" r="63" fill="#9ACD32"/>
+<circle cx="600" cy="150" r="47" fill="#111"/>
+<path d="M600 103 L628 126 L617 168 L600 190 L583 168 L572 126 Z" fill="#9ACD32"/>
+<circle cx="600" cy="150" r="12" fill="#111"/>
+<text x="600" y="35" text-anchor="middle" fill="#9ACD32" font-family="Arial, sans-serif" font-size="16" letter-spacing="7">OMNITRIX DATABASE</text>
+<text x="600" y="270" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="18" letter-spacing="5">SYSTEM ONLINE • BACKEND MODE</text>
+<g fill="#9ACD32" opacity=".55">
+<rect x="75" y="115" width="115" height="3"/><rect x="1010" y="115" width="115" height="3"/>
+<rect x="95" y="181" width="80" height="3"/><rect x="1025" y="181" width="80" height="3"/>
+</g>
+</svg>
