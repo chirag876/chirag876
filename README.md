@@ -261,27 +261,194 @@ I've worked on systems supporting **10K+ active users**, achieving **sub-200ms r
 * Engineered **Azure Data Pipelines** and custom Python automation utilities for modular ETL across distributed systems, alongside **LLM prompt pipelines for insurance data extraction**.
 
 ---
+## Beyond the Code
+
+<table>
+<tr>
+
+<!-- MUSIC -->
+<td valign="top" width="33%">
+
+<h3>Music</h3>
+
+<p>
+  <img
+    src="https://api.iconify.design/mdi/music-note.svg?color=%236C63FF"
+    width="48"
+    height="48"
+    title="Music"
+  />
+</p>
+
+I enjoy exploring **Hindi & Punjabi music** from familiar classics to discovering new tracks.
+
+</td>
+
+
+<!-- CINEMA -->
+<td valign="top" width="33%">
+
+<h3>Cinema</h3>
+
+<p>
+  <img
+    src="https://api.iconify.design/mdi/movie-open.svg?color=%23FF6B6B"
+    width="48"
+    height="48"
+    title="Cinema"
+  />
+</p>
+
+A big fan of **Bollywood movies**, with **Horror** being my favourite genre.
+
+</td>
+
+
+<!-- AVIATION -->
+<td valign="top" width="33%">
+
+<h3>Aviation</h3>
+
+<p>
+  <img
+    src="https://api.iconify.design/mdi/airplane.svg?color=%2300D4FF"
+    width="48"
+    height="48"
+    title="Aviation"
+  />
+</p>
+
+Interested in **aviation as a whole**, especially aviation incidents, investigations, and understanding what went wrong.
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- MYSTERIES -->
+<td valign="top" width="33%">
+
+<h3>Mysteries</h3>
+
+<p>
+  <img
+    src="https://api.iconify.design/mdi/magnify.svg?color=%23A855F7"
+    width="48"
+    height="48"
+    title="Mysteries"
+  />
+</p>
+
+I enjoy exploring **mysteries, unexplained stories, and fascinating archaeological discoveries**.
+
+</td>
+
+
+<!-- HISTORY -->
+<td valign="top" width="33%">
+
+<h3>History</h3>
+
+<p>
+  <img
+    src="https://api.iconify.design/mdi/bank.svg?color=%238B5CF6"
+    width="48"
+    height="48"
+    title="History"
+  />
+</p>
+
+Curious about **historical events, civilizations, archaeology, and the stories behind them**.
+
+</td>
+
+
+<!-- DOCUMENTARIES -->
+<td valign="top" width="33%">
+
+<h3>Documentaries</h3>
+
+<p>
+  <img
+    src="https://api.iconify.design/mdi/video-outline.svg?color=%2300D4FF"
+    width="48"
+    height="48"
+    title="Documentaries"
+  />
+</p>
+
+I especially enjoy **historical and investigative documentaries** that dive deep into events, discoveries, and real-world stories.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## Let's Connect
 
 <div align="center">
 
+<table width="65%">
+<tr>
+
+<td align="center" valign="middle" width="50%">
+
 <a href="mailto:chirag1706gupta@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-chirag1706gupta%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.icons8.com/fluency/96/gmail-new.png"
+    width="52"
+    height="52"
+    alt="Email"
+  />
 </a>
-
- 
-
-<a href="https://linkedin.com/in/chiraggupta1706">
-  <img src="https://img.shields.io/badge/LinkedIn-chiraggupta1706-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
 
 <br/>
+
+<strong>Email</strong>
+
+<br/><br/>
+
+<a href="mailto:chirag1706gupta@gmail.com">
+  <code>chirag1706gupta@gmail.com</code>
+</a>
+
+</td>
+
+<td align="center" valign="middle" width="50%">
+
+<a href="https://linkedin.com/in/chiraggupta1706">
+  <img
+    src="https://img.icons8.com/color/96/linkedin.png"
+    width="52"
+    height="52"
+    alt="LinkedIn"
+  />
+</a>
+
+<br/>
+
+<strong>LinkedIn</strong>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/chiraggupta1706">
+  <code>chiraggupta1706</code>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer" />
+
+`Always building. Always learning.`
+
+</div>
+
 </div>
